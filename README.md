@@ -1,4 +1,4 @@
-<div align="center"><a href="https://sibun-portfolio.netlify.app/" ><img src="https://github.com/Sibunnayak/Sibunnayak/blob/main/20230815_004701_0000.png"> </a></div>
+<div align="center"><a href="https://sibun-portfolio.netlify.app/" target="_blank"><img src="https://github.com/Sibunnayak/Sibunnayak/blob/main/20230815_004701_0000.png" target="_blank"> </a></div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
