@@ -1,11 +1,11 @@
-<div align="center"><a href="https://sibun-portfolio.netlify.app/"><img src="https://github.com/Sibunnayak/Sibunnayak/blob/main/20230815_004701_0000.png" target="_blank"> </a></div>
+<div align="center"><a href="https://sibun-portfolio.netlify.app/" target="_blank"><img src="https://github.com/Sibunnayak/Sibunnayak/blob/main/20230815_004701_0000.png" target="_blank"> </a></div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=3da37a&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Sibun;+I'm+from+India;" />
 </h1>
 
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
 
 <br/>
 
