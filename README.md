@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Spring Boot, Tailwind, Node.js, DevSecOps & Cloud Devops**
 
- 💬 Ask me about **DevOps ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **DevOps ... or anything**
 
  👨‍💻 All of my projects are available at [https://github.com/Sibunnayak](https://github.com/Sibunnayak)
 
